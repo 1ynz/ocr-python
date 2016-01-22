@@ -1,4 +1,5 @@
 # -*- coding: utf8 -*-
+
 import pyocr
 import pyocr.builders
 from PIL import Image
